@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+scrapy
+nltk
+pandas
+langdetect
+googletrans==4.0.0-rc1
+aiohttp
+asyncio
+transformers
+torch
+pytorch_lightning
+pydub
+
+# search server
+faiss-cpu
+sentence_transformers
+numpy
+pydantic
+apscheduler
+simplejson
