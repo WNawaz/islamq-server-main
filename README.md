@@ -1,3 +1,23 @@
+# This work is related to our following funded project.
+
+**Funded Project Title** 
+A Trusted and Accessibility-Supported Islamic Knowledge Delivery Platform for Non-Arabic Speakers
+
+**Research Team**
+1.	Dr. Waqas Nawaz (Islamic University of Madinah) - PI
+2.	Dr. Qaiser Abbas (Islamic University of Madinah) - CO-PI
+3.	Dr. Abdallah Namoun (Islamic University of Madinah) - CO-PI
+4.	Dr. Fazal Noor (Islamic University of Madinah) - CO-PI
+5.	Dr. Toqeer Ali (Islamic University of Madinah) - CO-PI
+6.	Dr. Fahad Alsisi (Islamic University of Madinah) - CO-PI
+7.	Dr. Kifayat Ullah Khan (FAST-NU Islamabad, Pakistan | Birmingham City University, UK) - Consultant
+8.	Mr. Rayan (MS Data science student at Islamic University of Madinah) – Student
+9.	Mr. Zakariya (BS student at Islamic University of Madinah) - Student
+
+**Acknowledgment Statement**
+The authors extend their sincere gratitude to all those who contributed to this study, notably the Islamic University of Madinah, the National University of Computer and Emerging Sciences (FAST-NU), and Birmingham City University. The Deanship of Scientific Research at the Islamic University of Madinah, KSA, generously provided financial support for this research under the research groups (first) project no. 956.
+
+
 # Islamq Backend Server
 
 Forwaded Server IP: https://fe5e-119-156-232-132.ngrok-free.app
